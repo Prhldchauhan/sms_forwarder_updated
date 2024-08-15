@@ -13,6 +13,13 @@ dependencies:
   flutter:
     sdk: flutter
   cupertino_icons: ^1.0.2
+  http: ^0.13.3
+  sms: ^0.2.4
+  firebase_core: latest_version
+  firebase_auth: latest_version
+  sqflite: latest_version
+  path_provider: latest_version
+  flutter_local_notifications: latest_version
 
 dev_dependencies:
   flutter_test:
